@@ -23,6 +23,7 @@
 		<twitter4j.version>4.0.2</twitter4j.version>
 	</properties>
 	<build>
+		<defaultGoal>install</defaultGoal>
 		<finalName>news-aggregator</finalName>
 		<plugins>
 			<plugin>
